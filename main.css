@@ -69,6 +69,13 @@ line-height: 1.6;
 text-align: justify;
 }
 
+a {
+text-decoration:none; 
+border:1px solid #fcbeb0; 
+padding:8px 15px; 
+border-radius:5px; 
+color:#000000;
+}
 
 .content-menu {
 list-style: none;
